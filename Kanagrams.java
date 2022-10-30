@@ -1,8 +1,9 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class Main
+public class Kanagrams
 {
+	
 public static void main(String[] input)
 {
 String str1, str2;
